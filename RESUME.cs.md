@@ -3,10 +3,10 @@ schema_version: 1
 type: sample
 file_count: 11
 delete_recommendation_percent: 55
-generated_date: 2026-09-28
+generated_date: 2026-09-29
 ---
 
 ## Description
 
-Ukazkovy Node.js/Express web server s Dockerfile a Kubernetes deployment/service manifesty.
-Demonstruje kontejnerizaci a nasazeni jednoducheho webu do Kubernetes, prevzato jako referencni priklad.
+Ukázkový Node.js/Express web server s Dockerfile a Kubernetes deployment/service manifesty.
+Demonstruje kontejnerizaci a nasazení jednoduchého webu do Kubernetes, převzato jako referenční příklad.
