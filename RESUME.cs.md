@@ -1,20 +1,21 @@
 ---
 schema_version: 3
-type: other
-file_count: 10
-delete_recommendation_percent: 97
+type: sample
+file_count: 11
+delete_recommendation_percent: 85
 generated_date: 2026-09-30
-generated_time: 13:03:09
+generated_time: 16:05:58
 github_origin: yes
 github_source_url: https://github.com/MicrosoftDocs/pipelines-javascript-docker
 ---
 
 ## Description
 
-This code sample uses the Node.js web framework Express to create a basic web server that listens for HTTP requests on port 8080.
+Ukázková Node.js aplikace s webovým serverem Express (port 8080), Dockerfilem v `app/Dockerfile` a Azure Pipelines definicí `azure-pipelines.yml`. Slouží jako vzor pro sestavení kontejneru a nasazení v pipeline. Jde o oficiální dokumentační ukázku od Microsoftu bez vlastního vývoje.
 
 ## Původ zdrojáků
 
 Staženo z GitHubu: **ano** — [MicrosoftDocs/pipelines-javascript-docker](https://github.com/MicrosoftDocs/pipelines-javascript-docker)
 
-- Zdroj určen podle: sunamo/pipelines-javascript-docker je fork na GitHubu.
+- Zdroj určen podle: remote `sunamo/pipelines-javascript-docker` je podle GitHub API fork tohoto repa, hash `app/server.js` a `app/Dockerfile` je shodný s originálem, README je původní od Microsoftu..
+
