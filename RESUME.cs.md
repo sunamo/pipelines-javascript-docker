@@ -1,5 +1,5 @@
 ---
-schema_version: 3
+schema_version: 4
 type: sample
 file_count: 12
 delete_recommendation_percent: 60
@@ -20,3 +20,10 @@ Jde o stažený vzorový projekt bez vlastních úprav.
 Staženo z GitHubu: **ano** — [MicrosoftDocs/pipelines-javascript-docker](https://github.com/MicrosoftDocs/pipelines-javascript-docker)
 
 - Zdroj určen podle: shoda git blob hashů 5 souborů (`app/server.js`, `app/Dockerfile`, `app/package.json`, `app/package-lock.json`, `app/.dockerignore`) s `MicrosoftDocs/pipelines-javascript-docker`; shodný popis a licence Microsoftu (`LICENSE`, `LICENSE-CODE`).
+
+## Doporučení ke smazání
+
+Doporučení ke smazání: **60 %** — kopie oficiální ukázky Microsoftu, dostupná na GitHubu
+
+- Soubory shodné s `MicrosoftDocs/pipelines-javascript-docker`, nic vlastního.
+- Ukázku lze kdykoli znovu stáhnout z upstreamu.
