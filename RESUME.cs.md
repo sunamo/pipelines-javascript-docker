@@ -1,5 +1,5 @@
 ---
-schema_version: 4
+schema_version: 5
 type: sample
 file_count: 11
 delete_recommendation_percent: 85
@@ -7,6 +7,9 @@ generated_date: 2026-09-30
 generated_time: 16:05:58
 github_origin: yes
 github_source_url: https://github.com/MicrosoftDocs/pipelines-javascript-docker
+first_commit_date: 2019-04-30
+last_commit_date: 2025-03-31
+commit_count: 36
 ---
 
 ## Description
@@ -26,3 +29,11 @@ Doporučení ke smazání: **85 %** — oficiální dokumentační ukázka Micro
 - Malé repo (11 souborů) s Express appkou, Dockerfilem a azure-pipelines.yml.
 - Poslední obsahový commit je z 2025-03-31 a jde o kopii MicrosoftDocs/pipelines-javascript-docker.
 - Nic vlastního zde není.
+
+## Historie commitů
+
+- První commit: 2019-04-30
+- Poslední commit: 2025-03-31
+- Celkem commitů: 36
+
+- Počítá se bez commitů, které jen generovaly RESUME.cs.md nebo README.md.
