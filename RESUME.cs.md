@@ -1,10 +1,12 @@
 ---
-schema_version: 2
+schema_version: 3
 type: other
 file_count: 10
 delete_recommendation_percent: 97
 generated_date: 2026-09-30
 generated_time: 13:03:09
+github_origin: yes
+github_source_url: https://github.com/MicrosoftDocs/pipelines-javascript-docker
 ---
 
 ## Description
