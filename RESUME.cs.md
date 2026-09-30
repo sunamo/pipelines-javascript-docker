@@ -1,5 +1,5 @@
 ---
-schema_version: 4
+schema_version: 5
 type: sample
 file_count: 12
 delete_recommendation_percent: 60
@@ -7,6 +7,9 @@ generated_date: 2026-09-30
 generated_time: 16:08:59
 github_origin: yes
 github_source_url: https://github.com/MicrosoftDocs/pipelines-javascript-docker
+first_commit_date: 2026-06-02
+last_commit_date: 2026-07-04
+commit_count: 3
 ---
 
 ## Description
@@ -27,3 +30,11 @@ Doporučení ke smazání: **60 %** — kopie oficiální ukázky Microsoftu, do
 
 - Soubory shodné s `MicrosoftDocs/pipelines-javascript-docker`, nic vlastního.
 - Ukázku lze kdykoli znovu stáhnout z upstreamu.
+
+## Historie commitů
+
+- První commit: 2026-06-02
+- Poslední commit: 2026-07-04
+- Celkem commitů: 3
+
+- Počítá se bez commitů, které jen generovaly RESUME.cs.md nebo README.md.
