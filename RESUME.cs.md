@@ -1,5 +1,5 @@
 ---
-schema_version: 3
+schema_version: 4
 type: sample
 file_count: 11
 delete_recommendation_percent: 85
@@ -19,3 +19,10 @@ Staženo z GitHubu: **ano** — [MicrosoftDocs/pipelines-javascript-docker](http
 
 - Zdroj určen podle: remote `sunamo/pipelines-javascript-docker` je podle GitHub API fork tohoto repa, hash `app/server.js` a `app/Dockerfile` je shodný s originálem, README je původní od Microsoftu..
 
+## Doporučení ke smazání
+
+Doporučení ke smazání: **85 %** — oficiální dokumentační ukázka Microsoftu, znovu dostupná na GitHubu
+
+- Malé repo (11 souborů) s Express appkou, Dockerfilem a azure-pipelines.yml.
+- Poslední obsahový commit je z 2025-03-31 a jde o kopii MicrosoftDocs/pipelines-javascript-docker.
+- Nic vlastního zde není.
