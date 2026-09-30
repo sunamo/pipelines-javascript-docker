@@ -10,3 +10,9 @@ generated_time: 13:03:09
 ## Description
 
 This code sample uses the Node.js web framework Express to create a basic web server that listens for HTTP requests on port 8080.
+
+## Původ zdrojáků
+
+Staženo z GitHubu: **ano** — [MicrosoftDocs/pipelines-javascript-docker](https://github.com/MicrosoftDocs/pipelines-javascript-docker)
+
+- Zdroj určen podle: sunamo/pipelines-javascript-docker je fork na GitHubu.
