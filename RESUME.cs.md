@@ -1,15 +1,17 @@
 ---
-schema_version: 5
+schema_version: 6
 type: sample
 file_count: 11
-delete_recommendation_percent: 85
-generated_date: 2026-09-30
-generated_time: 16:05:58
-github_origin: yes
+avg_lines_per_file: 83
+move_to_legacy_percent: 85
+generated_date: 2026-10-01
+generated_time: 16:41:06
 github_source_url: https://github.com/MicrosoftDocs/pipelines-javascript-docker
-first_commit_date: 2019-04-30
-last_commit_date: 2025-03-31
-commit_count: 36
+last_build_ok: 
+last_build_date: 
+last_tests_run_date: 
+covered_lines: 
+total_lines: 
 ---
 
 ## Description
@@ -22,18 +24,15 @@ Staženo z GitHubu: **ano** — [MicrosoftDocs/pipelines-javascript-docker](http
 
 - Zdroj určen podle: remote `sunamo/pipelines-javascript-docker` je podle GitHub API fork tohoto repa, hash `app/server.js` a `app/Dockerfile` je shodný s originálem, README je původní od Microsoftu..
 
-## Doporučení ke smazání
+## Doporučení přesunu do legacy
 
-Doporučení ke smazání: **85 %** — oficiální dokumentační ukázka Microsoftu, znovu dostupná na GitHubu
+Doporučení přesunu do sunamocz-legacy.visualstudio.com: **85 %** — oficiální dokumentační ukázka Microsoftu, znovu dostupná na GitHubu
 
 - Malé repo (11 souborů) s Express appkou, Dockerfilem a azure-pipelines.yml.
 - Poslední obsahový commit je z 2025-03-31 a jde o kopii MicrosoftDocs/pipelines-javascript-docker.
 - Nic vlastního zde není.
 
-## Historie commitů
+## Vazby na moje repa
 
-- První commit: 2019-04-30
-- Poslední commit: 2025-03-31
-- Celkem commitů: 36
-
-- Počítá se bez commitů, které jen generovaly RESUME.cs.md nebo README.md.
+- Submoduly: žádné
+- ProjectReference / PackageReference: žádné
