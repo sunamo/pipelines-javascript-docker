@@ -1,15 +1,17 @@
 ---
-schema_version: 5
+schema_version: 6
 type: sample
 file_count: 12
-delete_recommendation_percent: 60
-generated_date: 2026-09-30
-generated_time: 16:08:59
-github_origin: yes
+avg_lines_per_file: 80
+move_to_legacy_percent: 60
+generated_date: 2026-10-01
+generated_time: 16:40:46
 github_source_url: https://github.com/MicrosoftDocs/pipelines-javascript-docker
-first_commit_date: 2026-06-02
-last_commit_date: 2026-07-04
-commit_count: 3
+last_build_ok: 
+last_build_date: 
+last_tests_run_date: 
+covered_lines: 
+total_lines: 
 ---
 
 ## Description
@@ -24,17 +26,14 @@ Staženo z GitHubu: **ano** — [MicrosoftDocs/pipelines-javascript-docker](http
 
 - Zdroj určen podle: shoda git blob hashů 5 souborů (`app/server.js`, `app/Dockerfile`, `app/package.json`, `app/package-lock.json`, `app/.dockerignore`) s `MicrosoftDocs/pipelines-javascript-docker`; shodný popis a licence Microsoftu (`LICENSE`, `LICENSE-CODE`).
 
-## Doporučení ke smazání
+## Doporučení přesunu do legacy
 
-Doporučení ke smazání: **60 %** — kopie oficiální ukázky Microsoftu, dostupná na GitHubu
+Doporučení přesunu do sunamocz-legacy.visualstudio.com: **60 %** — kopie oficiální ukázky Microsoftu, dostupná na GitHubu
 
 - Soubory shodné s `MicrosoftDocs/pipelines-javascript-docker`, nic vlastního.
 - Ukázku lze kdykoli znovu stáhnout z upstreamu.
 
-## Historie commitů
+## Vazby na moje repa
 
-- První commit: 2026-06-02
-- Poslední commit: 2026-07-04
-- Celkem commitů: 3
-
-- Počítá se bez commitů, které jen generovaly RESUME.cs.md nebo README.md.
+- Submoduly: žádné
+- ProjectReference / PackageReference: žádné
