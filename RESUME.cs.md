@@ -1,5 +1,5 @@
 ---
-schema_version: 6
+schema_version: 7
 type: sample
 file_count: 11
 avg_lines_per_file: 83
@@ -7,11 +7,11 @@ move_to_legacy_percent: 85
 generated_date: 2026-10-01
 generated_time: 16:41:06
 github_source_url: https://github.com/MicrosoftDocs/pipelines-javascript-docker
-last_build_ok: 
-last_build_date: 
-last_tests_run_date: 
-covered_lines: 
-total_lines: 
+last_build_ok: n/a
+last_build_date: n/a
+last_tests_run_date: n/a
+covered_lines: 0
+total_lines: 11
 ---
 
 ## Description
