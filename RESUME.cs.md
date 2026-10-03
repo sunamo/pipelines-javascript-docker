@@ -1,5 +1,5 @@
 ---
-schema_version: 9
+schema_version: 10
 type: sample
 file_count: 11
 avg_lines_per_file: 83
@@ -11,12 +11,12 @@ links_updated: 2026-10-01
 github_source_url: https://github.com/MicrosoftDocs/pipelines-javascript-docker
 origin_status: found
 origin_checked: 2026-10-01
-article_source_url:
+article_source_url: not found
 article_status: none
 article_checked: 2026-10-03
-last_build_ok: n/a
-last_build_date: n/a
-last_tests_run_date: n/a
+last_build_ok: not run
+last_build_date: not run
+last_tests_run_date: not run
 covered_lines: 0
 ---
 
