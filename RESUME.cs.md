@@ -1,17 +1,23 @@
 ---
-schema_version: 7
+schema_version: 9
 type: sample
 file_count: 11
 avg_lines_per_file: 83
+total_lines: 11
+metrics_lm: 2026-10-01 16:41:06
 move_to_legacy_percent: 85
-generated_date: 2026-10-01
-generated_time: 16:41:06
+description_updated: 2026-10-01
+links_updated: 2026-10-01
 github_source_url: https://github.com/MicrosoftDocs/pipelines-javascript-docker
+origin_status: found
+origin_checked: n/a
+article_source_url:
+article_status: none
+article_checked: 2026-10-03
 last_build_ok: n/a
 last_build_date: n/a
 last_tests_run_date: n/a
 covered_lines: 0
-total_lines: 11
 ---
 
 ## Description
@@ -23,6 +29,8 @@ Ukázková Node.js aplikace s webovým serverem Express (port 8080), Dockerfilem
 Staženo z GitHubu: **ano** — [MicrosoftDocs/pipelines-javascript-docker](https://github.com/MicrosoftDocs/pipelines-javascript-docker)
 
 - Zdroj určen podle: remote `sunamo/pipelines-javascript-docker` je podle GitHub API fork tohoto repa, hash `app/server.js` a `app/Dockerfile` je shodný s originálem, README je původní od Microsoftu..
+
+Článek, ze kterého by kód byl opsaný, se nenašel (zjišťovalo se v souborech repa a podle názvu).
 
 ## Doporučení přesunu do legacy
 
