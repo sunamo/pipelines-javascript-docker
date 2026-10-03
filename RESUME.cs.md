@@ -1,17 +1,23 @@
 ---
-schema_version: 7
+schema_version: 9
 type: sample
 file_count: 12
 avg_lines_per_file: 80
+total_lines: 11
+metrics_lm: 2026-10-01 16:40:46
 move_to_legacy_percent: 60
-generated_date: 2026-10-01
-generated_time: 16:40:46
+description_updated: 2026-10-01
+links_updated: 2026-10-01
 github_source_url: https://github.com/MicrosoftDocs/pipelines-javascript-docker
+origin_status: found
+origin_checked: n/a
+article_source_url:
+article_status: none
+article_checked: 2026-10-03
 last_build_ok: n/a
 last_build_date: n/a
 last_tests_run_date: n/a
 covered_lines: 0
-total_lines: 11
 ---
 
 ## Description
@@ -25,6 +31,8 @@ Jde o stažený vzorový projekt bez vlastních úprav.
 Staženo z GitHubu: **ano** — [MicrosoftDocs/pipelines-javascript-docker](https://github.com/MicrosoftDocs/pipelines-javascript-docker)
 
 - Zdroj určen podle: shoda git blob hashů 5 souborů (`app/server.js`, `app/Dockerfile`, `app/package.json`, `app/package-lock.json`, `app/.dockerignore`) s `MicrosoftDocs/pipelines-javascript-docker`; shodný popis a licence Microsoftu (`LICENSE`, `LICENSE-CODE`).
+
+Článek, ze kterého by kód byl opsaný, se nenašel (zjišťovalo se v souborech repa a podle názvu).
 
 ## Doporučení přesunu do legacy
 
